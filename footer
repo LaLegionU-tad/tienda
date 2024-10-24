@@ -1,0 +1,11 @@
+<footer>
+			<div class="redes-sociales">
+				<a href="https://www.facebook.com/profile.php?id=61567812145144" target="_blank"><i class="fab fa-facebook-f"></i></a>
+				<a href="https://x.com/LegionUtad" target="_blank"><i class="fab fa-twitter"></i></a>
+				<a href="https://www.instagram.com/lalegion69u.tad/?hl=es" target="_blank"><i class="fab fa-instagram"></i></a>
+			</div>
+			<div class="box__copyright">
+				<hr>
+				<p>&copy; 2024 MiSitio. Todos los derechos reservados.</p>
+			</div>
+		</footer>
